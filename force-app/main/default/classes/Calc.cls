@@ -1,9 +1,9 @@
 public class Calc 
 {
-public integer a,b,c;
+public integer a,b,c,d,e;
     public void add()
     {
-        system.debug(a+b+c);
+        system.debug(a+b+c+d+e);
     }
     public void subs()
     {
@@ -11,7 +11,7 @@ public integer a,b,c;
     }
     public void mult()
     {
-        system.debug(a*b*c);
+        system.debug(a*b*c*d*e);
     }
     public void div()
     {
