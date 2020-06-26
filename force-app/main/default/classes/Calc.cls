@@ -7,7 +7,7 @@ public integer a,b,c,d,e;
     }
     public void subs()
     {
-        system.debug(a-b-c);//changes to Substract
+        system.debug(a-b);
     }
     public void mult()
     {
